@@ -1,0 +1,522 @@
+Date,Name,Counter_No,Counter_No_Service_Rating,Feedback Description,Sentiment
+01-12-2024 10:52,ashish nalawade,Counter_1,3,overall services is good,Positive
+01-01-2024 05:23,Taran Andra,Counter_4,3,The staff was very courteous and helpful.,Positive
+01-01-2024 07:02,Yuvaan Kakar,Counter_3,5,"Service was fast and efficient, I'm impressed.",Positive
+02-01-2024 02:07,Kiaan Chaudry,Counter_3,4,The post office is always clean and well-organized.,Positive
+02-01-2024 22:43,Rasha Randhawa,Counter_1,5,"I received my parcel earlier than expected, great job!",Positive
+03-01-2024 23:34,Nirvi Andra,Counter_4,1,The process for obtaining a new postal card was seamless.,Positive
+04-01-2024 05:24,Riya Ramanathan,Counter_3,1,The customer support team resolved my issue quickly.,Positive
+04-01-2024 12:19,Indranil Sandal,Counter_1,2,I appreciate the extended working hours on weekends.,Neutral
+04-01-2024 13:29,Ivana Dar,Counter_2,2,The staff was very polite and addressed all my queries.,Positive
+04-01-2024 22:19,Rania Chana,Counter_2,3,I found the location very convenient and accessible.,Positive
+05-01-2024 14:44,Mishti Johal,Counter_4,1,Online tracking was accurate and easy to use.,Positive
+06-01-2024 07:27,Kiara Rau,Counter_4,4,The queue was too long and moved very slowly.,Negative
+08-01-2024 08:16,Zoya Srivastava,Counter_2,4,The staff was rude and unhelpful during my visit.,Negative
+09-01-2024 01:38,Myra Randhawa,Counter_2,4,"I had to wait weeks for my parcel, unacceptable!",Neutral
+09-01-2024 06:00,Hrishita Aggarwal,Counter_1,0,The post office was messy and unorganized.,Negative
+09-01-2024 10:49,Heer Mahajan,Counter_1,2,There was no one to guide me when I needed help.,Neutral
+09-01-2024 14:14,Kartik Viswanathan,Counter_1,4,The online tracking system was not working properly.,Neutral
+10-01-2024 19:21,Onkar Bhakta,Counter_1,3,I had to visit multiple times due to incomplete information.,Negative
+12-01-2024 00:21,Krish Doctor,Counter_4,1,The customer service team was unresponsive to my complaints.,Neutral
+12-01-2024 17:04,Dhanuk Choudhry,Counter_1,1,The counters were closed even during working hours.,Negative
+13-01-2024 21:57,Romil Bajwa,Counter_3,3,The staff did not know how to resolve my issue.,Neutral
+14-01-2024 02:59,Jivika Balakrishnan,Counter_1,2,"The service was satisfactory, nothing exceptional.",Positive
+14-01-2024 03:22,Uthkarsh Toor,Counter_3,2,It was a regular visit with no major issues.,Negative
+14-01-2024 16:11,Piya Mandal,Counter_4,1,"I got my work done, but it took some time.",Neutral
+15-01-2024 05:35,Kashvi Keer,Counter_1,4,The staff was neither helpful nor unhelpful.,Neutral
+16-01-2024 08:55,Dharmajan Dugar,Counter_2,1,The post office was moderately busy during my visit.,Positive
+16-01-2024 12:48,Dhanush Raval,Counter_4,0,"The environment was average, with scope for improvement.",Negative
+17-01-2024 02:00,Adira Tak,Counter_1,4,Online services could be better but are manageable.,Positive
+17-01-2024 05:40,Rohan Biswas,Counter_3,3,I found the experience to be acceptable overall.,Neutral
+17-01-2024 08:55,Dhruv Sane,Counter_3,4,The speed of service was just about average.,Negative
+17-01-2024 13:03,Shaan Kaur,Counter_1,4,"I had no strong feelings about the visit, it was okay.",Positive
+17-01-2024 14:11,Vardaniya Kata,Counter_2,5,The counters were well-staffed and quick to serve.,Positive
+17-01-2024 19:34,Adira Tailor,Counter_2,4,My package arrived on time with no issues.,Neutral
+17-01-2024 22:56,Raghav Shanker,Counter_1,5,I had a smooth experience with sending a letter abroad.,Positive
+18-01-2024 00:56,Riaan Sarna,Counter_4,3,The new digital services are very convenient.,Positive
+19-01-2024 03:28,Arhaan Sachdev,Counter_4,3,I was able to easily purchase stamps and send my parcel.,Positive
+19-01-2024 04:03,Madhup Buch,Counter_2,3,The staff at the counter were friendly and welcoming.,Positive
+19-01-2024 07:38,Amani Korpal,Counter_1,0,It was easy to access the post office and park nearby.,Positive
+19-01-2024 12:42,Anahi Shenoy,Counter_4,1,The self-service kiosk was quick and efficient.,Positive
+20-01-2024 05:05,Amira Korpal,Counter_4,3,My experience was very pleasant with no delays.,Positive
+21-01-2024 04:39,Ranbir Dube,Counter_2,4,The post office was clean and had clear signage.,Positive
+22-01-2024 05:22,Manikya Varghese,Counter_1,0,I received regular updates about my parcel status.,Neutral
+22-01-2024 12:58,Stuvan Varkey,Counter_2,3,It was a bit difficult to find parking near the post office.,Negative
+22-01-2024 15:03,Jayesh Bakshi,Counter_4,0,The staff took too long to process my request.,Negative
+23-01-2024 19:34,Rhea Chatterjee,Counter_1,2,I had to wait a long time before I could speak to someone.,Negative
+25-01-2024 02:58,Samiha Sodhi,Counter_2,0,The office was too noisy and chaotic during my visit.,Neutral
+26-01-2024 08:27,Lavanya Vyas,Counter_2,1,I was impressed by the professionalism of the staff.,Positive
+27-01-2024 03:33,Jivin Sarraf,Counter_2,4,The location was a bit inconvenient to reach.,Negative
+27-01-2024 14:12,Adira Sanghvi,Counter_2,2,"I had to fill out several forms, which took longer than expected.",Negative
+27-01-2024 19:44,Shayak Kala,Counter_3,0,I wish the post office had more counters open during peak hours.,Positive
+27-01-2024 23:57,Urvi Dugar,Counter_4,0,The staff were knowledgeable and efficient in helping me.,Neutral
+28-01-2024 09:26,Kavya Rana,Counter_3,1,There was no clear signage to guide me inside.,Negative
+30-01-2024 18:15,Biju Yohannan,Counter_1,5,The queue system was well-organized and easy to follow.,Positive
+31-01-2024 10:33,Kaira Dey,Counter_4,4,The office was too cold for comfort during my visit.,Negative
+01-02-2024 01:50,Aradhya Dhillon,Counter_2,2,The staff handled my issue with great care and attention.,Positive
+01-02-2024 09:32,Diya Bala,Counter_2,5,I had difficulty understanding the online services.,Neutral
+01-02-2024 10:40,Adira Tella,Counter_4,3,The transaction was completed swiftly with no delays.,Neutral
+01-02-2024 10:49,Alisha Gupta,Counter_3,2,I wasn�t able to send my package because the staff wasn�t available.,Positive
+02-02-2024 06:55,Yashvi Cheema,Counter_3,1,The waiting area was clean but lacked seating options.,Positive
+03-02-2024 00:21,Adah Vala,Counter_1,5,I encountered some technical issues while trying to send money.,Neutral
+03-02-2024 05:38,Mahika Dua,Counter_2,2,The staff was efficient but could have been friendlier.,Neutral
+03-02-2024 09:16,Dhanush Savant,Counter_3,5,I appreciate the new digital systems that make my visits faster.,Positive
+03-02-2024 19:56,Tarini Khurana,Counter_1,1,I had an unpleasant experience because my parcel was damaged.,Negative
+04-02-2024 15:07,Ahana  Keer,Counter_3,0,The staff was overwhelmed and could not assist me properly.,Neutral
+04-02-2024 19:10,Mahika Kala,Counter_4,4,I found the service to be very satisfactory and reliable.,Positive
+05-02-2024 22:56,Drishya Chahal,Counter_4,0,The staff could be more helpful when answering questions.,Positive
+07-02-2024 00:42,Tushar Shah,Counter_2,0,It was difficult to find the post office location.,Negative
+08-02-2024 16:23,Tejas Kuruvilla,Counter_3,1,"The service was faster than expected, very happy with the experience.",Positive
+09-02-2024 02:05,Shlok Sastry,Counter_3,3,"I had to wait a long time, but the staff were polite.",Negative
+09-02-2024 20:41,Bhamini Deshmukh,Counter_3,1,The self-service kiosks are a great addition.,Positive
+09-02-2024 20:53,Tushar Dubey,Counter_2,5,The customer service line was very helpful in resolving my issue.,Positive
+10-02-2024 15:23,Drishya Mallick,Counter_4,5,I was pleased with the way my parcel was packaged.,Positive
+11-02-2024 00:05,Charvi Khurana,Counter_4,0,The staff didn't seem to know how to handle my request.,Neutral
+11-02-2024 03:15,Zara Dhar,Counter_4,3,The overall process felt too complicated and took too long.,Negative
+11-02-2024 10:58,Purab Kulkarni,Counter_3,1,I found the post office to be very convenient and efficient.,Positive
+12-02-2024 11:48,Farhan Chowdhury,Counter_4,0,The website could use some improvements to make it easier to navigate.,Neutral
+13-02-2024 09:54,Biju Contractor,Counter_1,2,There was no one available to assist with international shipments.,Positive
+13-02-2024 11:07,Bhavin Kothari,Counter_1,1,"The counters were understaffed, causing delays.",Neutral
+13-02-2024 19:19,Gatik Luthra,Counter_2,3,The staff were welcoming and eager to help.,Neutral
+13-02-2024 20:46,Farhan Dani,Counter_4,3,The post office had a pleasant atmosphere and was easy to navigate.,Positive
+14-02-2024 00:48,Lagan Dave,Counter_3,2,I was impressed by the variety of services offered at the post office.,Positive
+15-02-2024 21:24,Anaya Majumdar,Counter_3,5,I experienced a lot of delays in receiving my mail.,Positive
+15-02-2024 22:01,Faiyaz Bala,Counter_4,5,The queue system could be improved to avoid confusion.,Neutral
+16-02-2024 10:45,Reyansh Joshi,Counter_2,1,I received quick and accurate assistance from the staff.,Positive
+18-02-2024 19:49,Rhea Bedi,Counter_2,4,"The overall experience was fine, but could use some improvements.",Positive
+19-02-2024 11:10,Ritvik Kala,Counter_4,4,I was not satisfied with the quality of service received.,Negative
+20-02-2024 00:50,Piya Chhabra,Counter_2,4,I found the service to be very helpful and easy to use.,Positive
+20-02-2024 08:24,Veer Lalla,Counter_3,2,There was no clear direction about the process for mailing packages.,Negative
+20-02-2024 20:18,Tejas Manne,Counter_3,0,The post office was too crowded for comfort.,Neutral
+21-02-2024 19:17,Miraan Kothari,Counter_4,4,I was able to send my package with ease and without any problems.,Positive
+22-02-2024 00:05,Nirvi Singhal,Counter_3,3,I was disappointed that the post office was closed during lunch hours.,Negative
+22-02-2024 01:37,Jivin Chand,Counter_2,5,"The service was average, with no major issues or highlights.",Negative
+22-02-2024 20:51,Kabir Saran,Counter_1,3,I would recommend the post office for its consistent service.,Positive
+24-02-2024 18:15,Madhav Boase,Counter_2,2,"The delivery was fast, but the staff could be more polite.",Positive
+25-02-2024 03:21,Divit Doctor,Counter_1,3,"I had a smooth and efficient experience, no issues at all.",Positive
+25-02-2024 03:50,Vivaan Gokhale,Counter_3,2,The staff was quick to address my concerns and resolve the issue.,Positive
+25-02-2024 11:14,Kiaan Yohannan,Counter_3,5,The post office is easily accessible and located conveniently.,Positive
+26-02-2024 01:16,Ishita Tak,Counter_3,3,I would like to see more staff available during peak hours.,Positive
+26-02-2024 20:40,Indranil Bhasin,Counter_3,2,I was able to get all my work done without any issues.,Positive
+27-02-2024 19:02,Lavanya Mani,Counter_1,1,The service could have been faster during my visit.,Neutral
+27-02-2024 23:45,Ritvik Uppal,Counter_2,2,"The experience was mostly positive, with a few small issues.",Negative
+29-02-2024 19:31,Hridaan Borra,Counter_4,3,The staff was very courteous and helpful.,Positive
+02-03-2024 02:38,Indranil Zachariah,Counter_3,4,"Service was fast and efficient, I'm impressed.",Positive
+02-03-2024 09:27,Amani Dutt,Counter_1,5,The post office is always clean and well-organized.,Positive
+02-03-2024 12:06,Vivaan Shukla,Counter_4,0,"I received my parcel earlier than expected, great job!",Positive
+02-03-2024 22:32,Manikya Bhavsar,Counter_4,3,The process for obtaining a new postal card was seamless.,Positive
+03-03-2024 21:30,Samiha Kurian,Counter_1,4,The customer support team resolved my issue quickly.,Positive
+05-03-2024 08:15,Riaan Karan,Counter_1,5,I appreciate the extended working hours on weekends.,Neutral
+05-03-2024 10:04,Navya Loyal,Counter_3,5,The staff was very polite and addressed all my queries.,Positive
+05-03-2024 11:44,Nirvi Ghosh,Counter_2,3,I found the location very convenient and accessible.,Positive
+06-03-2024 14:47,Madhup Wali,Counter_3,2,Online tracking was accurate and easy to use.,Positive
+09-03-2024 07:53,Khushi Saran,Counter_2,4,The queue was too long and moved very slowly.,Negative
+11-03-2024 06:04,Siya Sami,Counter_2,5,The staff was rude and unhelpful during my visit.,Negative
+11-03-2024 21:33,Chirag Sachdev,Counter_1,0,"I had to wait weeks for my parcel, unacceptable!",Neutral
+12-03-2024 20:07,Nakul Kata,Counter_1,5,The post office was messy and unorganized.,Negative
+13-03-2024 02:43,Fateh Khare,Counter_3,4,There was no one to guide me when I needed help.,Neutral
+13-03-2024 08:02,Madhav Trivedi,Counter_3,1,The online tracking system was not working properly.,Neutral
+13-03-2024 22:43,Renee Bal,Counter_3,2,I had to visit multiple times due to incomplete information.,Negative
+14-03-2024 11:06,Yuvraj  Kapoor,Counter_2,1,The customer service team was unresponsive to my complaints.,Neutral
+14-03-2024 21:25,Saanvi Soman,Counter_3,4,The counters were closed even during working hours.,Negative
+15-03-2024 02:12,Yasmin Bakshi,Counter_4,3,The staff did not know how to resolve my issue.,Neutral
+15-03-2024 06:45,Ritvik Kala,Counter_3,2,"The service was satisfactory, nothing exceptional.",Positive
+15-03-2024 19:08,Ranbir Sani,Counter_4,1,It was a regular visit with no major issues.,Negative
+15-03-2024 23:12,Vanya Hayer,Counter_3,5,"I got my work done, but it took some time.",Neutral
+17-03-2024 04:38,Ayesha Khosla,Counter_1,4,The staff was neither helpful nor unhelpful.,Neutral
+17-03-2024 05:38,Miraya Srivastava,Counter_2,3,The post office was moderately busy during my visit.,Positive
+17-03-2024 07:02,Dhanuk Sagar,Counter_3,2,"The environment was average, with scope for improvement.",Negative
+17-03-2024 14:51,Shanaya Sheth,Counter_1,0,Online services could be better but are manageable.,Positive
+18-03-2024 06:49,Faiyaz Sehgal,Counter_3,3,I found the experience to be acceptable overall.,Neutral
+18-03-2024 22:47,Amira Gera,Counter_3,2,The speed of service was just about average.,Negative
+19-03-2024 14:02,Shanaya Gopal,Counter_2,3,"I had no strong feelings about the visit, it was okay.",Positive
+20-03-2024 05:43,Aaina Magar,Counter_4,0,The counters were well-staffed and quick to serve.,Positive
+20-03-2024 08:28,Neelofar Dara,Counter_3,2,My package arrived on time with no issues.,Neutral
+20-03-2024 15:07,Nitara Krish,Counter_1,0,I had a smooth experience with sending a letter abroad.,Positive
+20-03-2024 17:38,Vaibhav Warrior,Counter_3,3,The new digital services are very convenient.,Positive
+22-03-2024 07:56,Yuvaan Kapadia,Counter_2,0,I was able to easily purchase stamps and send my parcel.,Positive
+22-03-2024 09:07,Aarush Mallick,Counter_1,3,The staff at the counter were friendly and welcoming.,Positive
+22-03-2024 20:31,Hunar Krishnamurthy,Counter_1,3,It was easy to access the post office and park nearby.,Positive
+22-03-2024 22:17,Yasmin Ganesh,Counter_3,1,The self-service kiosk was quick and efficient.,Positive
+23-03-2024 06:02,Diya Shroff,Counter_4,2,My experience was very pleasant with no delays.,Positive
+23-03-2024 10:02,Tushar Balasubramanian,Counter_2,5,The post office was clean and had clear signage.,Positive
+23-03-2024 13:58,Rasha Mammen,Counter_3,0,I received regular updates about my parcel status.,Neutral
+24-03-2024 05:43,Alia Cherian,Counter_2,5,It was a bit difficult to find parking near the post office.,Negative
+24-03-2024 11:48,Myra Samra,Counter_3,5,The staff took too long to process my request.,Negative
+24-03-2024 13:52,Tiya Saini,Counter_3,5,I had to wait a long time before I could speak to someone.,Negative
+24-03-2024 21:05,Raunak Trivedi,Counter_1,4,The office was too noisy and chaotic during my visit.,Neutral
+25-03-2024 03:05,Nayantara Krishna,Counter_1,0,I was impressed by the professionalism of the staff.,Positive
+25-03-2024 08:01,Samaira Thaman,Counter_3,5,The location was a bit inconvenient to reach.,Negative
+25-03-2024 11:23,Neysa Sandhu,Counter_4,1,"I had to fill out several forms, which took longer than expected.",Negative
+26-03-2024 12:39,Krish Saini,Counter_4,0,I wish the post office had more counters open during peak hours.,Positive
+27-03-2024 03:15,Dharmajan Das,Counter_1,4,The staff were knowledgeable and efficient in helping me.,Neutral
+27-03-2024 06:45,Ishaan Sarin,Counter_1,5,There was no clear signage to guide me inside.,Negative
+27-03-2024 16:57,Abram Bhavsar,Counter_3,0,The queue system was well-organized and easy to follow.,Positive
+28-03-2024 05:16,Zeeshan Sunder,Counter_4,5,The office was too cold for comfort during my visit.,Negative
+28-03-2024 07:59,Shray Taneja,Counter_1,4,The staff handled my issue with great care and attention.,Positive
+28-03-2024 20:33,Biju Sant,Counter_2,4,I had difficulty understanding the online services.,Neutral
+29-03-2024 06:24,Saira Saran,Counter_3,3,The transaction was completed swiftly with no delays.,Neutral
+02-04-2024 20:46,Jayesh Shan,Counter_1,2,I wasn�t able to send my package because the staff wasn�t available.,Positive
+02-04-2024 23:51,Ojas Kibe,Counter_1,2,The waiting area was clean but lacked seating options.,Positive
+03-04-2024 10:12,Kaira Dani,Counter_3,2,I encountered some technical issues while trying to send money.,Neutral
+03-04-2024 22:18,Ryan Sastry,Counter_4,0,The staff was efficient but could have been friendlier.,Neutral
+04-04-2024 12:06,Ehsaan Mammen,Counter_1,4,I appreciate the new digital systems that make my visits faster.,Positive
+06-04-2024 06:04,Jiya Sawhney,Counter_3,3,I had an unpleasant experience because my parcel was damaged.,Negative
+06-04-2024 12:09,Diya Mammen,Counter_1,4,The staff was overwhelmed and could not assist me properly.,Neutral
+06-04-2024 22:49,Ehsaan Dhaliwal,Counter_1,0,I found the service to be very satisfactory and reliable.,Positive
+08-04-2024 00:23,Adira Jhaveri,Counter_3,4,The staff could be more helpful when answering questions.,Positive
+08-04-2024 03:20,Manjari Sama,Counter_2,3,It was difficult to find the post office location.,Negative
+11-04-2024 21:55,Kaira Bir,Counter_3,0,"The service was faster than expected, very happy with the experience.",Positive
+12-04-2024 00:31,Mahika Bali,Counter_4,5,"I had to wait a long time, but the staff were polite.",Negative
+12-04-2024 08:23,Jivin Deep,Counter_2,1,The self-service kiosks are a great addition.,Positive
+12-04-2024 08:39,Eva Sekhon,Counter_4,5,The customer service line was very helpful in resolving my issue.,Positive
+13-04-2024 21:18,Shanaya Mani,Counter_4,4,I was pleased with the way my parcel was packaged.,Positive
+14-04-2024 18:30,Kabir Wason,Counter_3,0,The staff didn't seem to know how to handle my request.,Neutral
+15-04-2024 07:21,Aarush Raval,Counter_1,3,The overall process felt too complicated and took too long.,Negative
+15-04-2024 23:19,Taran Bhalla,Counter_1,0,I found the post office to be very convenient and efficient.,Positive
+16-04-2024 04:54,Hrishita Lalla,Counter_2,4,The website could use some improvements to make it easier to navigate.,Neutral
+16-04-2024 16:54,Damini Halder,Counter_4,0,There was no one available to assist with international shipments.,Positive
+17-04-2024 02:51,Shayak Sane,Counter_3,1,"The counters were understaffed, causing delays.",Neutral
+17-04-2024 07:34,Damini Varghese,Counter_3,0,The staff were welcoming and eager to help.,Neutral
+17-04-2024 08:07,Faiyaz Thakur,Counter_4,5,The post office had a pleasant atmosphere and was easy to navigate.,Positive
+17-04-2024 10:44,Keya Choudhury,Counter_3,4,I was impressed by the variety of services offered at the post office.,Positive
+17-04-2024 22:36,Himmat Dyal,Counter_3,4,I experienced a lot of delays in receiving my mail.,Positive
+18-04-2024 04:35,Nakul Upadhyay,Counter_4,1,The queue system could be improved to avoid confusion.,Neutral
+21-04-2024 13:35,Jayan Hegde,Counter_4,5,I received quick and accurate assistance from the staff.,Positive
+22-04-2024 04:30,Neysa Bhandari,Counter_2,3,"The overall experience was fine, but could use some improvements.",Positive
+22-04-2024 12:50,Adah Dar,Counter_1,5,I was not satisfied with the quality of service received.,Negative
+22-04-2024 23:44,Prisha Dhillon,Counter_3,1,I found the service to be very helpful and easy to use.,Positive
+23-04-2024 04:40,Dhanush Date,Counter_2,3,There was no clear direction about the process for mailing packages.,Negative
+23-04-2024 17:22,Mishti Dhaliwal,Counter_2,3,The post office was too crowded for comfort.,Neutral
+24-04-2024 06:21,Shayak Bawa,Counter_2,3,I was able to send my package with ease and without any problems.,Positive
+25-04-2024 13:54,Samar Behl,Counter_3,4,I was disappointed that the post office was closed during lunch hours.,Negative
+26-04-2024 01:47,Baiju Taneja,Counter_1,2,"The service was average, with no major issues or highlights.",Negative
+26-04-2024 02:42,Kiaan Johal,Counter_2,2,I would recommend the post office for its consistent service.,Positive
+26-04-2024 19:41,Lagan Venkataraman,Counter_4,3,"The delivery was fast, but the staff could be more polite.",Positive
+29-04-2024 06:05,Hridaan Barman,Counter_4,0,"I had a smooth and efficient experience, no issues at all.",Positive
+01-05-2024 21:45,Shanaya Zacharia,Counter_4,5,The staff was quick to address my concerns and resolve the issue.,Positive
+02-05-2024 03:13,Saira Shankar,Counter_2,2,The post office is easily accessible and located conveniently.,Positive
+02-05-2024 05:25,Yuvaan Kata,Counter_1,0,I would like to see more staff available during peak hours.,Positive
+02-05-2024 10:46,Tara Venkatesh,Counter_4,4,I was able to get all my work done without any issues.,Positive
+03-05-2024 16:12,Onkar Dubey,Counter_2,5,The service could have been faster during my visit.,Neutral
+04-05-2024 02:31,Urvi Yadav,Counter_4,4,"The experience was mostly positive, with a few small issues.",Negative
+05-05-2024 03:05,Shray Basak,Counter_4,5,The staff was very courteous and helpful.,Positive
+05-05-2024 06:23,Misha Ravi,Counter_1,2,"Service was fast and efficient, I'm impressed.",Positive
+06-05-2024 01:06,Advika Kota,Counter_2,3,The post office is always clean and well-organized.,Positive
+09-05-2024 02:32,Charvi Dhar,Counter_2,3,"I received my parcel earlier than expected, great job!",Positive
+09-05-2024 05:39,Sana Shukla,Counter_1,3,The process for obtaining a new postal card was seamless.,Positive
+10-05-2024 05:25,Ira Bhatt,Counter_3,2,The customer support team resolved my issue quickly.,Positive
+12-05-2024 05:38,Shanaya Bassi,Counter_3,3,I appreciate the extended working hours on weekends.,Neutral
+12-05-2024 17:23,Shayak Krishnamurthy,Counter_2,3,The staff was very polite and addressed all my queries.,Positive
+13-05-2024 19:55,Vidur Dugar,Counter_3,4,I found the location very convenient and accessible.,Positive
+14-05-2024 07:05,Zara Kade,Counter_3,0,Online tracking was accurate and easy to use.,Positive
+14-05-2024 08:07,Kiaan Doctor,Counter_3,1,The queue was too long and moved very slowly.,Negative
+15-05-2024 23:23,Parinaaz Dhaliwal,Counter_2,5,The staff was rude and unhelpful during my visit.,Negative
+16-05-2024 12:28,Charvi Vig,Counter_4,0,"I had to wait weeks for my parcel, unacceptable!",Neutral
+18-05-2024 14:12,Divit Bahri,Counter_1,2,The post office was messy and unorganized.,Negative
+20-05-2024 08:14,Vanya Bir,Counter_3,0,There was no one to guide me when I needed help.,Neutral
+24-05-2024 00:58,Vidur Randhawa,Counter_1,0,The online tracking system was not working properly.,Neutral
+24-05-2024 06:09,Sahil Kota,Counter_4,3,I had to visit multiple times due to incomplete information.,Negative
+24-05-2024 11:06,Yuvraj  Brar,Counter_4,1,The customer service team was unresponsive to my complaints.,Neutral
+25-05-2024 03:45,Tejas Sharaf,Counter_3,2,The counters were closed even during working hours.,Negative
+25-05-2024 12:15,Kismat Bajaj,Counter_4,0,The staff did not know how to resolve my issue.,Neutral
+25-05-2024 16:57,Tarini Rastogi,Counter_4,4,"The service was satisfactory, nothing exceptional.",Positive
+27-05-2024 03:49,Hansh Khatri,Counter_3,5,It was a regular visit with no major issues.,Negative
+27-05-2024 04:27,Hridaan Kamdar,Counter_3,1,"I got my work done, but it took some time.",Neutral
+28-05-2024 21:23,Anaya Taneja,Counter_3,3,The staff was neither helpful nor unhelpful.,Neutral
+30-05-2024 15:35,Rasha Saha,Counter_2,0,The post office was moderately busy during my visit.,Positive
+31-05-2024 00:25,Fateh Guha,Counter_2,1,"The environment was average, with scope for improvement.",Negative
+01-06-2024 13:04,Rhea Bava,Counter_4,1,Online services could be better but are manageable.,Positive
+03-06-2024 20:44,Ivana Ganesan,Counter_3,2,I found the experience to be acceptable overall.,Neutral
+03-06-2024 23:58,Vritika Sandhu,Counter_4,1,The speed of service was just about average.,Negative
+05-06-2024 11:40,Vardaniya Goswami,Counter_3,4,"I had no strong feelings about the visit, it was okay.",Positive
+05-06-2024 15:17,Yakshit Gola,Counter_2,2,The counters were well-staffed and quick to serve.,Positive
+05-06-2024 15:43,Diya Dada,Counter_2,5,My package arrived on time with no issues.,Neutral
+08-06-2024 05:25,Ira Zacharia,Counter_4,2,I had a smooth experience with sending a letter abroad.,Positive
+08-06-2024 09:02,Shalv Mannan,Counter_3,1,The new digital services are very convenient.,Positive
+08-06-2024 10:11,Jayan Rana,Counter_1,5,I was able to easily purchase stamps and send my parcel.,Positive
+08-06-2024 17:50,Ira Johal,Counter_4,0,The staff at the counter were friendly and welcoming.,Positive
+09-06-2024 06:26,Kismat Sani,Counter_4,1,It was easy to access the post office and park nearby.,Positive
+09-06-2024 07:00,Mohanlal Chaudry,Counter_1,3,The self-service kiosk was quick and efficient.,Positive
+09-06-2024 17:47,Ayesha Gole,Counter_3,4,My experience was very pleasant with no delays.,Positive
+10-06-2024 05:41,Seher Uppal,Counter_1,4,The post office was clean and had clear signage.,Positive
+11-06-2024 02:18,Renee Das,Counter_4,1,I received regular updates about my parcel status.,Neutral
+11-06-2024 08:57,Jiya Khalsa,Counter_4,3,It was a bit difficult to find parking near the post office.,Negative
+11-06-2024 10:12,Anika Kota,Counter_2,0,The staff took too long to process my request.,Negative
+11-06-2024 19:31,Arhaan Chauhan,Counter_3,2,I had to wait a long time before I could speak to someone.,Negative
+12-06-2024 00:00,Jhanvi Kuruvilla,Counter_1,2,The office was too noisy and chaotic during my visit.,Neutral
+12-06-2024 21:25,Faiyaz Das,Counter_3,5,I was impressed by the professionalism of the staff.,Positive
+13-06-2024 11:31,Stuvan Ghose,Counter_1,4,The location was a bit inconvenient to reach.,Negative
+14-06-2024 17:22,Taran Viswanathan,Counter_2,3,"I had to fill out several forms, which took longer than expected.",Negative
+16-06-2024 21:35,Gokul Choudhury,Counter_3,0,I wish the post office had more counters open during peak hours.,Positive
+17-06-2024 07:30,Rasha Balay,Counter_2,0,The staff were knowledgeable and efficient in helping me.,Neutral
+19-06-2024 06:05,Anaya Chaudhry,Counter_3,0,There was no clear signage to guide me inside.,Negative
+19-06-2024 17:27,Miraan Date,Counter_4,3,The queue system was well-organized and easy to follow.,Positive
+19-06-2024 23:37,Shray Raj,Counter_1,2,The office was too cold for comfort during my visit.,Negative
+20-06-2024 12:22,Baiju Batra,Counter_2,3,The staff handled my issue with great care and attention.,Positive
+21-06-2024 19:30,Rasha Hegde,Counter_3,2,I had difficulty understanding the online services.,Neutral
+21-06-2024 19:33,Siya Ganesh,Counter_1,5,The transaction was completed swiftly with no delays.,Neutral
+22-06-2024 10:50,Mishti Shenoy,Counter_2,2,I wasn�t able to send my package because the staff wasn�t available.,Positive
+22-06-2024 21:52,Abram Soni,Counter_3,3,The waiting area was clean but lacked seating options.,Positive
+24-06-2024 08:19,Divij Sahni,Counter_4,2,I encountered some technical issues while trying to send money.,Neutral
+25-06-2024 01:10,Madhav Chaudhry,Counter_2,5,The staff was efficient but could have been friendlier.,Neutral
+25-06-2024 11:31,Azad Keer,Counter_2,3,I appreciate the new digital systems that make my visits faster.,Positive
+26-06-2024 08:27,Tara Gokhale,Counter_2,1,I had an unpleasant experience because my parcel was damaged.,Negative
+27-06-2024 06:13,Aarna Sunder,Counter_2,2,The staff was overwhelmed and could not assist me properly.,Neutral
+27-06-2024 08:44,Samiha Behl,Counter_3,2,I found the service to be very satisfactory and reliable.,Positive
+28-06-2024 01:10,Kabir Khalsa,Counter_2,0,The staff could be more helpful when answering questions.,Positive
+29-06-2024 04:53,Manjari Raju,Counter_3,0,It was difficult to find the post office location.,Negative
+01-07-2024 13:05,Hansh Arora,Counter_3,5,"The service was faster than expected, very happy with the experience.",Positive
+01-07-2024 21:35,Kanav Balakrishnan,Counter_2,5,"I had to wait a long time, but the staff were polite.",Negative
+05-07-2024 08:02,Armaan Goyal,Counter_2,5,The self-service kiosks are a great addition.,Positive
+06-07-2024 07:33,Anya Balakrishnan,Counter_2,3,The customer service line was very helpful in resolving my issue.,Positive
+06-07-2024 20:45,Aniruddh Mander,Counter_2,4,I was pleased with the way my parcel was packaged.,Positive
+06-07-2024 22:04,Vaibhav Borra,Counter_2,2,The staff didn't seem to know how to handle my request.,Neutral
+08-07-2024 07:33,Adah Deo,Counter_2,0,The overall process felt too complicated and took too long.,Negative
+09-07-2024 13:08,Tara Sood,Counter_1,3,I found the post office to be very convenient and efficient.,Positive
+10-07-2024 00:10,Anya Desai,Counter_4,5,The website could use some improvements to make it easier to navigate.,Neutral
+10-07-2024 09:10,Aarush Deshpande,Counter_2,0,There was no one available to assist with international shipments.,Positive
+10-07-2024 21:45,Faiyaz Dutta,Counter_1,4,"The counters were understaffed, causing delays.",Neutral
+10-07-2024 22:36,Tarini Bhatti,Counter_1,4,The staff were welcoming and eager to help.,Neutral
+12-07-2024 00:09,Reyansh Subramaniam,Counter_2,0,The post office had a pleasant atmosphere and was easy to navigate.,Positive
+12-07-2024 03:31,Mohanlal Aurora,Counter_4,0,I was impressed by the variety of services offered at the post office.,Positive
+12-07-2024 06:30,Riya Bhatnagar,Counter_2,4,I experienced a lot of delays in receiving my mail.,Positive
+13-07-2024 14:46,Aarav Apte,Counter_1,5,The queue system could be improved to avoid confusion.,Neutral
+16-07-2024 07:28,Vivaan Buch,Counter_4,2,I received quick and accurate assistance from the staff.,Positive
+16-07-2024 22:47,Kaira Grewal,Counter_3,3,"The overall experience was fine, but could use some improvements.",Positive
+17-07-2024 16:51,Nehmat Dada,Counter_2,3,I was not satisfied with the quality of service received.,Negative
+18-07-2024 00:08,Oorja Deo,Counter_2,3,I found the service to be very helpful and easy to use.,Positive
+18-07-2024 10:05,Devansh Sekhon,Counter_3,1,There was no clear direction about the process for mailing packages.,Negative
+18-07-2024 19:05,Pranay Hegde,Counter_1,1,The post office was too crowded for comfort.,Neutral
+19-07-2024 13:33,Aaina Bahri,Counter_3,1,I was able to send my package with ease and without any problems.,Positive
+19-07-2024 23:49,Ranbir Ganesan,Counter_1,3,I was disappointed that the post office was closed during lunch hours.,Negative
+20-07-2024 00:01,Ryan Yohannan,Counter_1,4,"The service was average, with no major issues or highlights.",Negative
+21-07-2024 15:05,Reyansh Karnik,Counter_1,4,I would recommend the post office for its consistent service.,Positive
+23-07-2024 09:17,Samiha Dara,Counter_4,1,"The delivery was fast, but the staff could be more polite.",Positive
+23-07-2024 22:15,Kimaya Sundaram,Counter_4,4,"I had a smooth and efficient experience, no issues at all.",Positive
+24-07-2024 15:53,Anika Chahal,Counter_2,4,The staff was quick to address my concerns and resolve the issue.,Positive
+25-07-2024 22:59,Taran Dasgupta,Counter_4,3,The post office is easily accessible and located conveniently.,Positive
+26-07-2024 01:07,Jayan Gala,Counter_3,0,I would like to see more staff available during peak hours.,Positive
+26-07-2024 10:36,Kavya Dar,Counter_1,4,I was able to get all my work done without any issues.,Positive
+26-07-2024 14:29,Umang Desai,Counter_2,0,The service could have been faster during my visit.,Neutral
+26-07-2024 18:27,Vivaan Kothari,Counter_1,5,"The experience was mostly positive, with a few small issues.",Negative
+27-07-2024 11:25,Aniruddh Ben,Counter_2,2,The staff was very courteous and helpful.,Positive
+28-07-2024 08:31,Adira Sethi,Counter_1,4,"Service was fast and efficient, I'm impressed.",Positive
+30-07-2024 23:17,Armaan Mand,Counter_1,2,The post office is always clean and well-organized.,Positive
+31-07-2024 00:49,Shanaya Chhabra,Counter_1,2,"I received my parcel earlier than expected, great job!",Positive
+31-07-2024 04:14,Zain Mann,Counter_2,2,The process for obtaining a new postal card was seamless.,Positive
+01-08-2024 00:09,Vivaan Maharaj,Counter_3,3,The customer support team resolved my issue quickly.,Positive
+01-08-2024 13:24,Ahana  Dada,Counter_2,4,I appreciate the extended working hours on weekends.,Neutral
+01-08-2024 17:33,Keya Banik,Counter_1,1,The staff was very polite and addressed all my queries.,Positive
+03-08-2024 02:07,Reyansh Kibe,Counter_3,2,I found the location very convenient and accessible.,Positive
+03-08-2024 18:40,Aarush Sharaf,Counter_3,0,Online tracking was accurate and easy to use.,Positive
+04-08-2024 14:19,Damini Arora,Counter_1,2,The queue was too long and moved very slowly.,Negative
+04-08-2024 19:29,Drishya Vala,Counter_2,5,The staff was rude and unhelpful during my visit.,Negative
+04-08-2024 22:28,Oorja Kohli,Counter_1,2,"I had to wait weeks for my parcel, unacceptable!",Neutral
+05-08-2024 05:52,Azad Vala,Counter_2,2,The post office was messy and unorganized.,Negative
+05-08-2024 10:08,Khushi Badami,Counter_4,4,There was no one to guide me when I needed help.,Neutral
+05-08-2024 18:08,Nakul Bora,Counter_4,5,The online tracking system was not working properly.,Neutral
+05-08-2024 21:19,Advika Sengupta,Counter_4,2,I had to visit multiple times due to incomplete information.,Negative
+05-08-2024 23:44,Kabir Seth,Counter_2,1,The customer service team was unresponsive to my complaints.,Neutral
+06-08-2024 01:35,Mishti Gara,Counter_3,4,The counters were closed even during working hours.,Negative
+06-08-2024 09:13,Kismat D�Alia,Counter_4,1,The staff did not know how to resolve my issue.,Neutral
+07-08-2024 00:26,Kavya Borde,Counter_2,2,"The service was satisfactory, nothing exceptional.",Positive
+07-08-2024 03:15,Ojas Gera,Counter_3,2,It was a regular visit with no major issues.,Negative
+07-08-2024 18:35,Akarsh Devi,Counter_4,2,"I got my work done, but it took some time.",Neutral
+09-08-2024 03:03,Prisha Raman,Counter_1,2,The staff was neither helpful nor unhelpful.,Neutral
+09-08-2024 08:37,Diya Bajwa,Counter_4,3,The post office was moderately busy during my visit.,Positive
+09-08-2024 12:02,Kabir Chawla,Counter_4,1,"The environment was average, with scope for improvement.",Negative
+09-08-2024 12:05,Ritvik Basak,Counter_3,1,Online services could be better but are manageable.,Positive
+09-08-2024 20:01,Adira Doshi,Counter_2,1,I found the experience to be acceptable overall.,Neutral
+09-08-2024 23:48,Aarna Sridhar,Counter_4,3,The speed of service was just about average.,Negative
+10-08-2024 05:38,Hazel Shere,Counter_3,3,"I had no strong feelings about the visit, it was okay.",Positive
+10-08-2024 12:15,Khushi Lala,Counter_4,3,The counters were well-staffed and quick to serve.,Positive
+10-08-2024 12:21,Drishya Lad,Counter_2,1,My package arrived on time with no issues.,Neutral
+10-08-2024 13:52,Suhana Magar,Counter_3,5,I had a smooth experience with sending a letter abroad.,Positive
+14-08-2024 09:07,Indrans Comar,Counter_2,4,The new digital services are very convenient.,Positive
+14-08-2024 10:42,Pranay Sarkar,Counter_1,1,I was able to easily purchase stamps and send my parcel.,Positive
+15-08-2024 11:32,Tushar Agrawal,Counter_3,5,The staff at the counter were friendly and welcoming.,Positive
+18-08-2024 02:20,Neysa De,Counter_2,2,It was easy to access the post office and park nearby.,Positive
+18-08-2024 03:57,Ayesha Datta,Counter_1,3,The self-service kiosk was quick and efficient.,Positive
+20-08-2024 05:10,Zoya Thakkar,Counter_1,5,My experience was very pleasant with no delays.,Positive
+20-08-2024 10:23,Sana Shere,Counter_4,4,The post office was clean and had clear signage.,Positive
+20-08-2024 13:28,Manjari Saini,Counter_4,1,I received regular updates about my parcel status.,Neutral
+21-08-2024 18:55,Eshani Karpe,Counter_1,0,It was a bit difficult to find parking near the post office.,Negative
+22-08-2024 12:15,Mamooty Chandra,Counter_2,1,The staff took too long to process my request.,Negative
+22-08-2024 15:23,Uthkarsh Banik,Counter_1,1,I had to wait a long time before I could speak to someone.,Negative
+22-08-2024 15:41,Mannat Virk,Counter_2,1,The office was too noisy and chaotic during my visit.,Neutral
+22-08-2024 16:16,Biju Dua,Counter_2,1,I was impressed by the professionalism of the staff.,Positive
+23-08-2024 19:07,Zoya Aggarwal,Counter_2,3,The location was a bit inconvenient to reach.,Negative
+23-08-2024 21:31,Vihaan Kalla,Counter_4,0,"I had to fill out several forms, which took longer than expected.",Negative
+24-08-2024 00:28,Hunar Jaggi,Counter_4,3,I wish the post office had more counters open during peak hours.,Positive
+24-08-2024 00:57,Saanvi Dave,Counter_4,5,The staff were knowledgeable and efficient in helping me.,Neutral
+24-08-2024 11:03,Riaan Jhaveri,Counter_3,4,There was no clear signage to guide me inside.,Negative
+24-08-2024 21:14,Pranay Dave,Counter_1,2,The queue system was well-organized and easy to follow.,Positive
+25-08-2024 01:41,Arhaan Grewal,Counter_3,4,The office was too cold for comfort during my visit.,Negative
+25-08-2024 09:48,Nakul Tata,Counter_3,2,The staff handled my issue with great care and attention.,Positive
+25-08-2024 10:15,Nakul Dayal,Counter_3,2,I had difficulty understanding the online services.,Neutral
+25-08-2024 11:41,Kiara Vohra,Counter_4,1,The transaction was completed swiftly with no delays.,Neutral
+25-08-2024 18:31,Ishita Khanna,Counter_4,1,I wasn�t able to send my package because the staff wasn�t available.,Positive
+26-08-2024 01:39,Zeeshan Chaudry,Counter_2,0,The waiting area was clean but lacked seating options.,Positive
+26-08-2024 20:31,Romil Mannan,Counter_3,0,I encountered some technical issues while trying to send money.,Neutral
+27-08-2024 05:21,Suhana Walla,Counter_2,0,The staff was efficient but could have been friendlier.,Neutral
+27-08-2024 09:54,Nakul Dass,Counter_3,0,I appreciate the new digital systems that make my visits faster.,Positive
+27-08-2024 11:07,Riaan Contractor,Counter_4,1,I had an unpleasant experience because my parcel was damaged.,Negative
+27-08-2024 23:49,Baiju Barad,Counter_1,4,The staff was overwhelmed and could not assist me properly.,Neutral
+30-08-2024 01:06,Amani Dhawan,Counter_3,4,I found the service to be very satisfactory and reliable.,Positive
+30-08-2024 12:40,Dhanush Karan,Counter_1,5,The staff could be more helpful when answering questions.,Positive
+30-08-2024 21:42,Arnav Gaba,Counter_3,5,It was difficult to find the post office location.,Negative
+30-08-2024 21:56,Mehul Toor,Counter_1,0,"The service was faster than expected, very happy with the experience.",Positive
+01-09-2024 04:38,Keya Dara,Counter_4,2,"I had to wait a long time, but the staff were polite.",Negative
+03-09-2024 02:27,Aarna Bobal,Counter_4,2,The self-service kiosks are a great addition.,Positive
+04-09-2024 01:14,Amira Agrawal,Counter_2,3,The customer service line was very helpful in resolving my issue.,Positive
+05-09-2024 22:21,Vihaan Srinivas,Counter_1,4,I was pleased with the way my parcel was packaged.,Positive
+07-09-2024 04:06,Zoya Subramaniam,Counter_1,4,The staff didn't seem to know how to handle my request.,Neutral
+07-09-2024 06:27,Ryan Bhattacharyya,Counter_2,4,The overall process felt too complicated and took too long.,Negative
+07-09-2024 15:18,Raunak Dugar,Counter_2,1,I found the post office to be very convenient and efficient.,Positive
+08-09-2024 20:47,Tejas Chaudry,Counter_4,0,The website could use some improvements to make it easier to navigate.,Neutral
+09-09-2024 19:22,Miraya Devan,Counter_3,1,There was no one available to assist with international shipments.,Positive
+10-09-2024 14:19,Vivaan Sood,Counter_4,1,"The counters were understaffed, causing delays.",Neutral
+11-09-2024 12:50,Nehmat Goyal,Counter_1,5,The staff were welcoming and eager to help.,Neutral
+11-09-2024 19:34,Suhana Chowdhury,Counter_1,5,The post office had a pleasant atmosphere and was easy to navigate.,Positive
+12-09-2024 13:12,Kabir Madan,Counter_1,0,I was impressed by the variety of services offered at the post office.,Positive
+12-09-2024 13:38,Kanav Tripathi,Counter_2,2,I experienced a lot of delays in receiving my mail.,Positive
+13-09-2024 03:06,Darshit Deol,Counter_3,4,The queue system could be improved to avoid confusion.,Neutral
+15-09-2024 18:24,Nakul Ranganathan,Counter_1,3,I received quick and accurate assistance from the staff.,Positive
+17-09-2024 12:46,Nirvaan Bose,Counter_3,1,"The overall experience was fine, but could use some improvements.",Positive
+18-09-2024 01:01,Adah Dasgupta,Counter_2,2,I was not satisfied with the quality of service received.,Negative
+18-09-2024 03:56,Aarush Sur,Counter_4,5,I found the service to be very helpful and easy to use.,Positive
+18-09-2024 09:29,Shaan Bala,Counter_2,3,There was no clear direction about the process for mailing packages.,Negative
+18-09-2024 10:56,Tejas Chaudhary,Counter_2,1,The post office was too crowded for comfort.,Neutral
+19-09-2024 15:41,Arnav Chaudhuri,Counter_3,1,I was able to send my package with ease and without any problems.,Positive
+20-09-2024 12:17,Anya Devan,Counter_3,3,I was disappointed that the post office was closed during lunch hours.,Negative
+22-09-2024 08:43,Ryan Chad,Counter_4,5,"The service was average, with no major issues or highlights.",Negative
+22-09-2024 12:51,Fateh Borah,Counter_1,5,I would recommend the post office for its consistent service.,Positive
+22-09-2024 14:27,Nakul Zacharia,Counter_3,4,"The delivery was fast, but the staff could be more polite.",Positive
+24-09-2024 08:32,Madhav Ramakrishnan,Counter_3,0,"I had a smooth and efficient experience, no issues at all.",Positive
+24-09-2024 09:49,Hrishita Bose,Counter_1,5,The staff was quick to address my concerns and resolve the issue.,Positive
+25-09-2024 00:23,Anaya Dave,Counter_4,0,The post office is easily accessible and located conveniently.,Positive
+25-09-2024 06:04,Badal Date,Counter_3,4,I would like to see more staff available during peak hours.,Positive
+26-09-2024 13:54,Advika Lala,Counter_2,3,I was able to get all my work done without any issues.,Positive
+26-09-2024 18:21,Kiaan Vig,Counter_2,1,The service could have been faster during my visit.,Neutral
+27-09-2024 10:20,Raghav Grewal,Counter_2,1,"The experience was mostly positive, with a few small issues.",Negative
+27-09-2024 10:29,Lavanya Kale,Counter_1,3,The staff was very courteous and helpful.,Positive
+27-09-2024 22:00,Advik Date,Counter_2,4,"Service was fast and efficient, I'm impressed.",Positive
+28-09-2024 00:53,Madhup Sarkar,Counter_3,0,The post office is always clean and well-organized.,Positive
+28-09-2024 13:26,Aradhya Wable,Counter_3,3,"I received my parcel earlier than expected, great job!",Positive
+29-09-2024 22:05,Reyansh Ben,Counter_1,5,The process for obtaining a new postal card was seamless.,Positive
+29-09-2024 23:08,Elakshi Talwar,Counter_1,0,The customer support team resolved my issue quickly.,Positive
+30-09-2024 20:43,Nayantara Chauhan,Counter_1,2,I appreciate the extended working hours on weekends.,Neutral
+01-10-2024 21:46,Ivana Biswas,Counter_2,5,The staff was very polite and addressed all my queries.,Positive
+02-10-2024 00:12,Lagan Dass,Counter_2,2,I found the location very convenient and accessible.,Positive
+02-10-2024 02:28,Anahi Kamdar,Counter_1,5,Online tracking was accurate and easy to use.,Positive
+02-10-2024 03:09,Samarth Bobal,Counter_4,4,The queue was too long and moved very slowly.,Negative
+04-10-2024 12:24,Reyansh Chandran,Counter_4,5,The staff was rude and unhelpful during my visit.,Negative
+04-10-2024 22:05,Sumer Trivedi,Counter_1,2,"I had to wait weeks for my parcel, unacceptable!",Neutral
+05-10-2024 08:00,Dishani Gopal,Counter_4,2,The post office was messy and unorganized.,Negative
+05-10-2024 16:17,Anahita Anand,Counter_1,0,There was no one to guide me when I needed help.,Neutral
+06-10-2024 12:53,Anya Ramachandran,Counter_1,0,The online tracking system was not working properly.,Neutral
+07-10-2024 15:23,Taimur Sankar,Counter_4,5,I had to visit multiple times due to incomplete information.,Negative
+08-10-2024 03:52,Purab Sahota,Counter_1,1,The customer service team was unresponsive to my complaints.,Neutral
+08-10-2024 06:26,Ahana  Iyer,Counter_1,1,The counters were closed even during working hours.,Negative
+08-10-2024 14:38,Madhav Wadhwa,Counter_3,5,The staff did not know how to resolve my issue.,Neutral
+08-10-2024 15:02,Gokul Sami,Counter_4,0,"The service was satisfactory, nothing exceptional.",Positive
+09-10-2024 10:51,Advika Das,Counter_2,1,It was a regular visit with no major issues.,Negative
+10-10-2024 11:40,Trisha Sha,Counter_3,3,"I got my work done, but it took some time.",Neutral
+10-10-2024 15:20,Diya Ramanathan,Counter_2,2,The staff was neither helpful nor unhelpful.,Neutral
+11-10-2024 08:16,Mannat Kibe,Counter_3,2,The post office was moderately busy during my visit.,Positive
+12-10-2024 02:47,Himmat Bhattacharyya,Counter_4,1,"The environment was average, with scope for improvement.",Negative
+13-10-2024 01:52,Abram Gour,Counter_2,2,Online services could be better but are manageable.,Positive
+13-10-2024 15:58,Keya Dara,Counter_2,0,I found the experience to be acceptable overall.,Neutral
+14-10-2024 01:15,Elakshi Dhingra,Counter_2,0,The speed of service was just about average.,Negative
+14-10-2024 07:17,Abram Sharaf,Counter_3,2,"I had no strong feelings about the visit, it was okay.",Positive
+16-10-2024 03:28,Jayesh Sha,Counter_1,2,The counters were well-staffed and quick to serve.,Positive
+17-10-2024 03:20,Parinaaz Sandal,Counter_3,3,My package arrived on time with no issues.,Neutral
+17-10-2024 19:29,Farhan Roy,Counter_2,2,I had a smooth experience with sending a letter abroad.,Positive
+18-10-2024 06:17,Jhanvi Basak,Counter_4,5,The new digital services are very convenient.,Positive
+18-10-2024 11:32,Samarth Shan,Counter_1,2,I was able to easily purchase stamps and send my parcel.,Positive
+19-10-2024 02:22,Ahana  Raj,Counter_4,2,The staff at the counter were friendly and welcoming.,Positive
+19-10-2024 14:53,Alia Sheth,Counter_1,4,It was easy to access the post office and park nearby.,Positive
+20-10-2024 10:25,Armaan Uppal,Counter_1,2,The self-service kiosk was quick and efficient.,Positive
+20-10-2024 14:41,Miraan De,Counter_3,2,My experience was very pleasant with no delays.,Positive
+20-10-2024 17:47,Aayush Bahl,Counter_4,4,The post office was clean and had clear signage.,Positive
+20-10-2024 23:20,Divij Dhingra,Counter_3,4,I received regular updates about my parcel status.,Neutral
+22-10-2024 08:06,Manikya Lal,Counter_4,4,It was a bit difficult to find parking near the post office.,Negative
+23-10-2024 08:15,Bhavin Kakar,Counter_4,1,The staff took too long to process my request.,Negative
+24-10-2024 05:09,Faiyaz Rajagopal,Counter_2,2,I had to wait a long time before I could speak to someone.,Negative
+24-10-2024 11:50,Taimur Sampath,Counter_3,5,The office was too noisy and chaotic during my visit.,Neutral
+25-10-2024 08:43,Ivana Bansal,Counter_1,0,I was impressed by the professionalism of the staff.,Positive
+25-10-2024 15:12,Urvi Varughese,Counter_2,3,The location was a bit inconvenient to reach.,Negative
+26-10-2024 03:08,Zoya Master,Counter_4,3,"I had to fill out several forms, which took longer than expected.",Negative
+27-10-2024 01:43,Ela Venkatesh,Counter_3,4,I wish the post office had more counters open during peak hours.,Positive
+27-10-2024 18:48,Vivaan Datta,Counter_4,0,The staff were knowledgeable and efficient in helping me.,Neutral
+28-10-2024 02:31,Divit Kapadia,Counter_3,1,There was no clear signage to guide me inside.,Negative
+30-10-2024 04:46,Mahika Gade,Counter_1,1,The queue system was well-organized and easy to follow.,Positive
+30-10-2024 09:31,Ishaan Srinivasan,Counter_1,4,The office was too cold for comfort during my visit.,Negative
+30-10-2024 16:03,Sahil Dasgupta,Counter_3,3,The staff handled my issue with great care and attention.,Positive
+31-10-2024 01:29,Vritika Rama,Counter_2,4,I had difficulty understanding the online services.,Neutral
+31-10-2024 06:11,Aradhya Kumar,Counter_3,5,The transaction was completed swiftly with no delays.,Neutral
+01-11-2024 01:02,Advika Ganesan,Counter_2,5,I wasn�t able to send my package because the staff wasn�t available.,Positive
+01-11-2024 07:18,Kabir Deol,Counter_1,0,The waiting area was clean but lacked seating options.,Positive
+04-11-2024 13:53,Parinaaz Rajan,Counter_2,2,I encountered some technical issues while trying to send money.,Neutral
+05-11-2024 18:27,Kaira Shah,Counter_4,0,The staff was efficient but could have been friendlier.,Neutral
+06-11-2024 09:28,Damini Sangha,Counter_2,3,I appreciate the new digital systems that make my visits faster.,Positive
+08-11-2024 02:21,Nirvaan Agarwal,Counter_1,2,I had an unpleasant experience because my parcel was damaged.,Negative
+08-11-2024 16:40,Umang Handa,Counter_4,0,The staff was overwhelmed and could not assist me properly.,Neutral
+09-11-2024 23:24,Pari Sama,Counter_4,2,I found the service to be very satisfactory and reliable.,Positive
+10-11-2024 06:33,Pranay Sur,Counter_4,2,The staff could be more helpful when answering questions.,Positive
+10-11-2024 09:18,Siya Bassi,Counter_2,1,It was difficult to find the post office location.,Negative
+10-11-2024 12:02,Pranay Borra,Counter_1,5,"The service was faster than expected, very happy with the experience.",Positive
+12-11-2024 01:32,Zaina Bedi,Counter_1,4,"I had to wait a long time, but the staff were polite.",Negative
+13-11-2024 15:16,Kaira Uppal,Counter_1,5,The self-service kiosks are a great addition.,Positive
+14-11-2024 17:43,Hridaan Chanda,Counter_3,3,The customer service line was very helpful in resolving my issue.,Positive
+14-11-2024 18:36,Shamik Gandhi,Counter_2,3,I was pleased with the way my parcel was packaged.,Positive
+14-11-2024 23:30,Reyansh Kar,Counter_3,2,The staff didn't seem to know how to handle my request.,Neutral
+16-11-2024 06:08,Bhamini Ganguly,Counter_2,5,The overall process felt too complicated and took too long.,Negative
+18-11-2024 01:42,Baiju Kata,Counter_2,2,I found the post office to be very convenient and efficient.,Positive
+18-11-2024 16:01,Ela Karpe,Counter_2,0,The website could use some improvements to make it easier to navigate.,Neutral
+19-11-2024 02:32,Manikya Jani,Counter_4,3,There was no one available to assist with international shipments.,Positive
+19-11-2024 06:21,Taimur Randhawa,Counter_3,3,"The counters were understaffed, causing delays.",Neutral
+20-11-2024 05:42,Jayesh Chatterjee,Counter_1,4,The staff were welcoming and eager to help.,Neutral
+20-11-2024 21:27,Kartik Malhotra,Counter_3,5,The post office had a pleasant atmosphere and was easy to navigate.,Positive
+21-11-2024 04:23,Aaina Walia,Counter_3,0,I was impressed by the variety of services offered at the post office.,Positive
+21-11-2024 14:36,Nitara Aggarwal,Counter_4,4,I experienced a lot of delays in receiving my mail.,Positive
+21-11-2024 23:34,Ryan Tella,Counter_2,0,The queue system could be improved to avoid confusion.,Neutral
+22-11-2024 05:09,Manjari Seth,Counter_3,1,I received quick and accurate assistance from the staff.,Positive
+22-11-2024 13:00,Tiya Rout,Counter_3,0,"The overall experience was fine, but could use some improvements.",Positive
+25-11-2024 01:12,Navya Som,Counter_2,5,I was not satisfied with the quality of service received.,Negative
+25-11-2024 02:50,Darshit Balan,Counter_1,5,I found the service to be very helpful and easy to use.,Positive
+25-11-2024 06:54,Prerak Lad,Counter_4,3,There was no clear direction about the process for mailing packages.,Negative
+25-11-2024 21:37,Aradhya Kurian,Counter_3,0,The post office was too crowded for comfort.,Neutral
+26-11-2024 12:54,Shray Mann,Counter_4,5,I was able to send my package with ease and without any problems.,Positive
+26-11-2024 17:11,Anay Basak,Counter_1,0,I was disappointed that the post office was closed during lunch hours.,Negative
+27-11-2024 06:08,Azad Agrawal,Counter_1,3,"The service was average, with no major issues or highlights.",Negative
+28-11-2024 01:09,Madhup Shenoy,Counter_1,3,I would recommend the post office for its consistent service.,Positive
+28-11-2024 11:02,Yakshit Rout,Counter_4,4,"The delivery was fast, but the staff could be more polite.",Positive
+29-11-2024 04:17,Veer Bhardwaj,Counter_2,4,"I had a smooth and efficient experience, no issues at all.",Positive
+29-11-2024 12:17,Eva Sen,Counter_1,1,The staff was quick to address my concerns and resolve the issue.,Positive
+29-11-2024 18:02,Krish Raj,Counter_2,3,The post office is easily accessible and located conveniently.,Positive
+29-11-2024 22:59,Shlok Bhakta,Counter_1,5,I would like to see more staff available during peak hours.,Positive
+30-11-2024 12:09,Urvi Balasubramanian,Counter_3,3,I was able to get all my work done without any issues.,Positive
+30-11-2024 19:35,Suhana Char,Counter_2,5,The service could have been faster during my visit.,Neutral
+01-12-2024 03:37,Nirvi Koshy,Counter_4,3,"The experience was mostly positive, with a few small issues.",Negative
+01-12-2024 10:54,ashish nalawade,Counter_2,1,overall services is worst,Negative
+01-12-2024 21:19,Kute Manjusha,Counter_3,2,overall performance is good,Positive
+01-12-2024 21:27,Manjusha Kute,Counter_2,3,good services,Positive
+04-12-2024 15:00,Siya,Counter_1,4,The Staff is good and services also good.,Positive
+04-12-2024 15:00,Siya,Counter_3,0,The Staff is good and services also good.,Positive
+04-12-2024 15:02,Parth,Counter_4,0,Good,Positive
+04-12-2024 15:02,Parth,Counter_1,1,Good,Positive
+04-12-2024 15:02,Parth,Counter_3,4,Good,Negative
+04-12-2024 15:02,Parth,Counter_1,0,Good,Neutral
+04-12-2024 15:03,nbgdh,Counter_3,1, nvm,Positive
+04-12-2024 15:05,ashish nalawade,Counter_3,3,good,Negative
+05-12-2024 15:05,ashish nalawade,Counter_4,2,good,Negative
+06-12-2024 15:05,ashish nalawade,Counter_3,3,good,Negative
+07-12-2024 15:05,ashish nalawade,Counter_1,0,good,Negative
+08-12-2024 15:05,ashish nalawade,Counter_1,3,good,Negative
+09-12-2024 15:05,ashish nalawade,Counter_3,4,good,Negative
+10-12-2024 15:05,ashish nalawade,Counter_1,5,good,Negative
+11-12-2024 15:05,ashish nalawade,Counter_2,0,good,Negative
+
+
